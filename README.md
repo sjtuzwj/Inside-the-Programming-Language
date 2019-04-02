@@ -1,5 +1,8 @@
 # Inside-the-Programming-Language
 
+## Preview
+Some naive comments about my study.
+
 ## Link
 https://zhuanlan.zhihu.com/c_1039197804748595200
 
